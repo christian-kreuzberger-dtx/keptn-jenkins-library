@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.1.5](https://github.com/christian-kreuzberger-dtx/keptn-jenkins-library/compare/5.1.4...5.1.5) (2022-01-25)
+
+
+### Bug Fixes
+
+* important hofix ([0901d15](https://github.com/christian-kreuzberger-dtx/keptn-jenkins-library/commit/0901d15ad0ee4601cb0032ad1ca7e7bbd2e481a0))
+
 ### [5.1.2](https://github.com/keptn-sandbox/keptn-jenkins-library/compare/5.1.1...5.1.2) (2021-11-30)
 
 Automation improvements
