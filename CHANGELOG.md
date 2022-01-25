@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.0.0](https://github.com/christian-kreuzberger-dtx/keptn-jenkins-library/compare/5.1.4...6.0.0) (2022-01-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* This is incompatible
+
+### Features
+
+* This is incompatible ([593fd17](https://github.com/christian-kreuzberger-dtx/keptn-jenkins-library/commit/593fd1741b47b7c20f1ca33bcff39c4694ea175e))
+
 ### [5.1.4](https://github.com/christian-kreuzberger-dtx/keptn-jenkins-library/compare/5.1.3...5.1.4) (2022-01-25)
 
 ### [5.1.2](https://github.com/keptn-sandbox/keptn-jenkins-library/compare/5.1.1...5.1.2) (2021-11-30)
