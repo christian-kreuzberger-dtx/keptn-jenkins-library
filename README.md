@@ -40,7 +40,7 @@ As part of a Keptn Community Webinar we walked through all use cases supported b
 
 ## Pre-Requisits on Jenkins
 This Jenkins Shared Library requires the following Jenkins Plugins to be installed on your Jenkins
-| Jenkins Plugin | Comment | Tested Version |
+| Jenkins Plugin | Comment | Teffsted Version |
 | -------------- | -------- | ------------ |
 | [httpRequest Plugin](https://plugins.jenkins.io/http_request/) | Uses httpRequest to make REST Calls to Keptn | Tested with 1.8.26 | 
 | [Pipeline Utility Step Plugin](https://plugins.jenkins.io/pipeline-utility-steps/) | Uses readJSON, writeJSON | Tested with 2.5.0 |
